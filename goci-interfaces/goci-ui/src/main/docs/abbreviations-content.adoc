@@ -556,10 +556,16 @@ GBA: glucocerebrosiadase
 GGT: glutamyltranspeptidase
 
 
+GIP: glucose-dependent insulinotropic peptide 
+
+
 Glc: Glucose
 
 
 Gln: Glutamine
+
+
+GLP-1: glucagon-like peptide-1
 
 
 GLU: glucose
